@@ -47,19 +47,7 @@ $ npm run start:prod
 
 
 
-## Run tests
+## Support 
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-
-
-#Support 
 Access Swagger UI: Once the application is running, you can access the Swagger UI by navigating to:
 http://localhost:3000/api-docs
